@@ -1,5 +1,18 @@
 # AI CLI Tool
 
+A personal CLI tool for English vocabulary practice,
+designed for a Traditional Chinese learner.
+
+Focus areas:
+- Flute practice 🎵
+- Gaming 🎮
+- Self-growth 🌱
+
+This tool generates:
+- Clear explanations (EN + ZH)
+- Practical example sentences
+- Structured output for daily learning
+
 ## Setup
 
 python -m venv venv
