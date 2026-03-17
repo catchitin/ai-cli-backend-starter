@@ -1,38 +1,38 @@
 # AI CLI Tool
 
-A personal CLI tool for English vocabulary practice,
-designed for a Traditional Chinese learner.
+A personal CLI tool for English vocabulary practice,  
+designed for Traditional Chinese learners.
 
-Focus areas:
+---
+
+## ✨ Demo
+
+![demo](assets/demo.png)
+
+---
+
+## 🎯 What this tool does
+
+This tool helps you learn English words with:
+
+- Clear explanations (EN + ZH)
+- IPA pronunciation
+- Practical example sentences
+- Structured output for daily learning
+
+---
+
+## 🧠 Focus areas
+
 - Flute practice 🎵
 - Gaming 🎮
 - Self-growth 🌱
 
-This tool generates:
-- Clear explanations (EN + ZH)
-- Practical example sentences
-- Structured output for daily learning
+---
 
-## Setup
-
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-## Run
-
-python main.py "a paragraph for LLM summarizes....."
-
-## Usage
+## 🚀 Usage
 
 Run the tool with a word:
 
+```bash
 python main.py discipline
-
-Example output:
-
-- Word, part of speech, IPA
-- English + Chinese meanings
-- 10 example sentences (EN/ZH)
-
-
